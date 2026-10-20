@@ -196,6 +196,16 @@ For help upgrading your scripts to SuiteScript 2.1, contact Foretopia at [info@f
 
 ---
 
+|  | **Bundle Details** |
+| --- | --- |
+| Name | SuiteScript 2.1 Upgrade Report Toolkit |
+| ID | 712419 |
+| Version | 1.0.0 |
+| Company | Foretopia - Dev 1 |
+| Description | SuiteScript 2.1 Upgrade Report Toolkit by Foretopia. A free, open-source Suitelet that lists every script in your account that isn't on SuiteScript 2.1, with its version, type, status, last execution and source (Bundle, SuiteApp or SuiteScript), so you can plan your upgrade. It writes and stores nothing in your account, and the report makes no outbound calls. The optional "Generate Context" page uses NetSuite's built-in AI (N/llm) to summarize a script file, which uses your account's LLM usage credits. MIT licensed. Not affiliated with Oracle or NetSuite. |
+
+---
+
 NetSuite and Oracle are registered trademarks of Oracle and/or its affiliates. SuiteScript 2.1 Upgrade Report Toolkit is an independent tool published by Foretopia, LLC and is not affiliated with, endorsed by, sponsored by, or supported by Oracle or NetSuite.
 
 Built by [Udaykumar Patil - Foretopia](https://www.foretopia.com).
