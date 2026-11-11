@@ -2,7 +2,7 @@
 
 **See which NetSuite scripts still need to move to SuiteScript 2.1, all on one page.**
 
-SuiteScript 2.1 Upgrade Report Toolkit is a free, open-source tool for NetSuite. It lists every script in your account that is not on SuiteScript 2.1, so you can see your exposure to Oracle's announced end of support for SuiteScript 1.0 before it affects you, and plan the upgrade with real numbers.
+SuiteScript 2.1 Upgrade Report Toolkit is a free, open-source tool for NetSuite. It lists every script in your account that is not on SuiteScript 2.1, including SuiteScript 1.0, 2.0, and 2.x scripts, so you can see your exposure to Oracle's planned move of all custom scripts to SuiteScript 2.1 before it affects you, and plan the upgrade with real numbers.
 
 - **Free and open source** under the MIT License.
 - **Runs inside your NetSuite account** as two Suitelets. There is no Foretopia service behind it.
