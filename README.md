@@ -158,7 +158,7 @@ Things that lower the limit:
 
 ## Install
 
-1. SuiteScript-2.1-Upgrade-Report-Toolkit : Install via Bundle ID NNNN (Customization > SuiteBundler > Search & Install Bundles). Install both Suitelets: the Generate Context button links to the Script File Context Suitelet and opens NetSuite's error page if it is not deployed.
+1. SuiteScript-2.1-Upgrade-Report-Toolkit : Install via Bundle ID 712419 (Customization > SuiteBundler > Search & Install Bundles). Install both Suitelets: the Generate Context button links to the Script File Context Suitelet and opens NetSuite's error page if it is not deployed.
 2. Assign the included role to the users who need the report, or confirm that the deployments' Execute As Role is set to it.
 3. Open the report from **Customization > Scripting > Script Deployments > "FTP | SL | Script Version Report"** and use the URL on the deployment record.
 
